@@ -23,4 +23,6 @@ asign3
 i.Correlation matrix
 
 ii.Average sharp ratio for all alpha factors
-
+sharpe_ratio=0.631
+iii.Others
+<img width="1636" alt="image" src="https://github.com/user-attachments/assets/ffc887cd-126a-41b5-af23-2278a31a5e92" />
