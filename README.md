@@ -1,5 +1,5 @@
 # 224040169-5210asign 
-
+# We use Joinquant to do this project
 asign1
 i.Correlation matrix
 asign1使用的策略只有一个因子，所以无相关性计算
@@ -10,7 +10,12 @@ iii.Others
 
 asign2
 i.Correlation matrix
+
 ii.Average sharp ratio for all alpha factors
+sharpe_ratio=2.289
+iii.Others
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/85e49d3d-3bdb-4dd0-a2ff-01b9bb2e497e" />
+
 
 
 
